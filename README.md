@@ -18,16 +18,16 @@
     <!DOCTYPE html>
     <html>
     <head>
-    <title>Page Title</title>
+    <title>CDN FONT PTT 45 Pride</title>
     
         <link
     rel="stylesheet"href="https://cdn.jsdelivr.net/gh/allaboutitappscript/font_ptt45_pride/stylesheet.css">
-    <style type="text/css">
-            		body {
-    			font-family: 'ptt_45_pride';
-            		}
-    
-                </style>
+  <style type="text/css">
+body {
+    font-family: 'ptt_45_pride';
+           }
+
+   </style>
     </head>
     <body>
     
