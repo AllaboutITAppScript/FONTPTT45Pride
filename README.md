@@ -39,6 +39,6 @@
 
 
 ขอขอบคุณ: [เว็บไซต์ปตท.](https://www.pttplc.com/th/Media/Activity/Highlights/Content-41143.aspx)
-วิธีดาวน์โหลดเครดิต คลิปอ.อภิวัฒน์ วงกันหา : [ชมคลิป](https://youtu.be/yW2vN6zmu0w)
+วิธีดาวน์โหลดเครดิต คลิป อาจารย์อภิวัฒน์ วงศ์กัณหา : [ชมคลิป](https://youtu.be/yW2vN6zmu0w)
 
 [โดย:ครบเครื่องเรื่องไอที](https://lin.ee/XdCPip9) 
