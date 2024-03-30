@@ -24,11 +24,10 @@
         <link
     rel="stylesheet"href="https://allaboutitappscript.github.io/font_ptt45_pride/stylesheet.css">
     <style type="text/css">
-            		body {
-    			font-family: 'ptt_45_pride';
-            		}
-    
-                </style>
+    body {
+    font-family: 'ptt_45_pride';
+        }
+    </style>
     </head>
     <body>
     
