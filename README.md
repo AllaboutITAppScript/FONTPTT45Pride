@@ -19,7 +19,7 @@
     <!DOCTYPE html>
     <html>
     <head>
-    <title>Page Title</title>
+    <title>CDN FONT PTT 45 Pride </title>
     
         <link
     rel="stylesheet"href="https://allaboutitappscript.github.io/font_ptt45_pride/stylesheet.css">
